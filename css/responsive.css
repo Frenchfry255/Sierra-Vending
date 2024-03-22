@@ -1,0 +1,468 @@
+/*////////////////////////////////////////////////////// Responsive CSS Structure //////////////////////////////////////////////////////*/
+@media (min-width: 1200px) and (max-width: 1920px){
+}
+
+@media (min-width: 1700px) and (max-width: 1799px){
+/* home page */
+.banner-section .banner-main-content { padding-right: 35px; }
+.who-we-are-block .section-title { margin-bottom: 15px; }
+.who-we-are-block .who-we-are-image { max-width: 325px; }
+.our-services-block .service-detail .detail ul li { margin-bottom: 20px; }
+.our-services-block .service-icon { height: 75px; }
+.our-services-block .service-icon * { height: 75px; }
+.our-products-block .product-detail .detail { font-size: 18px; }
+.our-products-block .product-image { max-width: 150px; width: 100%; margin-left: auto; margin-right: auto; }
+.get-in-touch-section .get-in-touch-title { margin-bottom: 25px; }
+.get-in-touch-section .get-in-touch-title .section-title { margin-bottom: 10px; }
+/* home page */
+}
+
+@media (min-width: 1600px) and (max-width: 1699px){
+/* home page */
+.banner-section .banner-main-content { padding-right: 100px; }
+.who-we-are-block .section-title { margin-bottom: 15px; }
+.who-we-are-block .who-we-are-image { max-width: 325px; }
+.our-services-block .service-detail .detail ul li { margin-bottom: 20px; }
+.our-services-block .service-icon { height: 75px; }
+.our-services-block .service-icon * { height: 75px; }
+.our-products-block .product-detail .detail { font-size: 18px; }
+.our-products-block .product-image { max-width: 150px; width: 100%; margin-left: auto; margin-right: auto; }
+.get-in-touch-section .get-in-touch-title { margin-bottom: 25px; }
+.get-in-touch-section .get-in-touch-title .section-title { margin-bottom: 10px; }
+/* home page */
+}
+
+@media (min-width: 1600px) {
+.container { max-width: 1525px; }
+}
+
+@media (min-width: 1500px) and (max-width: 1599px){
+.container { max-width: 1425px; }
+
+/* home page */
+.banner-section .banner-main-content { padding-right: 100px; }
+.who-we-are-block .section-title { margin-bottom: 15px; }
+.who-we-are-block .who-we-are-image { max-width: 325px; }
+.our-services-block .service-detail .detail ul li { margin-bottom: 20px; }
+.our-services-block .service-icon { height: 75px; }
+.our-services-block .service-icon * { height: 75px; }
+.our-products-block .product-detail .detail { font-size: 18px; }
+.our-products-block .product-image { max-width: 150px; width: 100%; margin-left: auto; margin-right: auto; }
+.get-in-touch-section .get-in-touch-title { margin-bottom: 25px; }
+.get-in-touch-section .get-in-touch-title .section-title { margin-bottom: 10px; }
+/* home page */
+}
+
+@media (min-width: 1400px) and (max-width: 1499px){
+.container { max-width: 1325px; }
+.block-title { font-size: 24px; }
+.common-main-section { padding-top: 200px; padding-bottom: 75px; }
+.common-scroll-to-section .common-scroll-to-block .scroll-link { font-size: 18px; }
+.section-title { font-size: 28px; letter-spacing: -1.5px; }
+.block-title { font-size: 22px; }
+
+/* header */
+.navbar .navbar-nav .nav-item { margin: 0 25px; }
+.header .h-get-touch-button { margin-left: 50px; }
+
+.navbar .navbar-brand { width: 185px; }
+/* header */
+
+/* home page */
+.banner-section .banner-main-content { padding-right: 100px; }
+.banner-section .banner-main-content .main-title { font-size: 55px; }
+.our-services-block .service-detail .detail ul li { margin-bottom: 35px; }
+.our-products-section .section-title { margin-bottom: 25px; }
+.get-in-touch-section .get-in-touch-content > .row { margin: 0 -45px; }
+.get-in-touch-section .get-in-touch-content > .row > * { padding: 0 45px; }
+/* home page */
+
+/* home page */
+.who-we-are-section .who-we-are-description > .section-title { margin-bottom: 20px; }
+.who-we-are-block .section-title { font-size: 22px; margin-bottom: 15px; }
+.who-we-are-block .who-we-are-image { max-width: 300px; }
+.our-services-block .service-detail .detail ul li { margin-bottom: 15px; }
+.our-services-block .service-icon { height: 70px; margin-bottom: 20px; }
+.our-services-block .service-icon * { height: 70px; }
+.our-products-block .product-detail .detail { font-size: 18px; }
+.our-products-block .product-image { max-width: 140px; width: 100%; margin-left: auto; margin-right: auto; }
+.our-services-block .block-title { letter-spacing: -1.5px; }
+.get-in-touch-section .get-in-touch-title { margin-bottom: 25px; }
+.get-in-touch-section .get-in-touch-title .section-title { margin-bottom: 10px; }
+.get-in-touch-section .get-address-block { padding: 20px; margin-bottom: 15px; }
+/* home page */
+}
+
+@media (min-width: 1300px) and (max-width: 1399px){
+.main-title { font-size: 50px; margin-bottom: 20px; }
+/* .section-title { font-size: 35px; margin-bottom: 30px; } */
+.block-title { font-size: 24px; }
+/* .common-scroll-to-section .common-scroll-to-block .scroll-link { font-size: 18px; } */
+.common-scroll-to-section .common-scroll-to-block .scroll-link { font-size: 16px; }
+.common-scroll-to-section .common-scroll-to-block .scroll-link .scroll-anim { width: 18px; height: 35px; }
+.common-scroll-to-section .common-scroll-to-block .scroll-link .scroll-anim:before { width: 15px; height: 15px; }
+@keyframes scroll-dot-anim { from { top: 2px; } to { top: 16px; } }
+@-webkit-keyframes scroll-dot-anim { from { top: 2px; } to { top: 16px; } }
+/* .common-main-section { padding-top: 225px; } */
+.paragraph-large { font-size: 18px; }
+#fp-nav.right { right: 35px !important; }
+#fp-nav.fp-right { right: 35px !important; }
+.common-scroll-to-section .common-scroll-to-block { padding-top: 10px; padding-bottom: 10px; }
+
+
+/* .common-main-section { padding-top: 185px; padding-bottom: 75px; } */
+.common-main-section { padding-top: 150px; padding-bottom: 75px; }
+.section-title { font-size: 28px; letter-spacing: -1.5px; margin-bottom: 30px; }
+.block-title { font-size: 22px; }
+
+/* header */
+.navbar .navbar-brand { width: 200px; }
+.navbar .navbar-nav .nav-item { margin: 0 15px; }
+.navbar .navbar-nav .nav-item .nav-link { font-size: 16px; }
+.header .h-get-touch-button { margin-left: 35px; }
+
+.navbar .navbar-brand { width: 150px; }
+
+
+.navbar .navbar-brand { width: 125px; }
+.header .h-top ul li { font-size: 15px; }
+.header .h-top ul li svg,
+.header .h-top ul li img { width: 15px; height: 15px; margin-right: 5px; }
+.header .h-top ul li.social-icons svg,
+.header .h-top ul li.social-icons img { width: 15px; height: 15px; }
+.header .h-top ul li.social-icons > * { margin: 0 10px; }
+.header .h-bottom .h-content { padding: 10px 0; }
+/* header */
+
+/* home page */
+/* .banner-block .banner-main-content { max-width: 750px; } */
+.banner-section .banner-main-content { padding-right: 35px; }
+.banner-block .banner-description { padding-bottom: 100px; }
+/* .who-we-are-block .section-title { font-size: 22px; margin-bottom: 10px; } */
+.who-we-are-block .section-title { font-size: 20px; margin-bottom: 10px; }
+.our-services-block .service-detail .detail { line-height: 150%; }
+.our-services-block .service-detail .detail ul li { margin-bottom: 10px; }
+.our-products-section .section-title { margin-bottom: 15px; }
+.our-products-block .product-image { max-width: 125px; width: 100%; margin-left: auto; margin-right: auto; margin-bottom: 15px; }
+.our-products-carousel .slick-slide.slick-current .our-products-block .product-detail { font-size: 20px; }
+.our-products-block .product-detail .detail { font-size: 18px; }
+.get-in-touch-section .get-in-touch-content > .row { margin: 0 -35px; }
+.get-in-touch-section .get-in-touch-content > .row > * { padding: 0 35px; }
+.get-in-touch-section .get-address-block { padding: 15px; margin-bottom: 10px; border-radius: 15px; -webkit-border-radius: 15px; -moz-border-radius: 15px; -ms-border-radius: 15px; -o-border-radius: 15px; }
+
+
+.who-we-are-block .who-we-are-image { max-width: 250px; }
+.our-services-block .service-icon { height: 50px; margin-bottom: 15px; }
+.our-services-block .service-icon * { height: 50px; }
+.our-services-block .block-title { letter-spacing: -1.5px; font-size: 20px; margin-bottom: 10px; }
+.get-in-touch-section .get-in-touch-title { margin-bottom: 20px; }
+
+.who-we-are-block .who-we-are-detail .detail { line-height: 150%; }
+.who-we-are-block .who-we-are-detail .detail p { margin-bottom: 10px; }
+
+.get-in-touch-section .get-in-touch-title .section-title { margin-bottom: 10px; }
+.get-in-touch-section .common-form .form-select,
+.get-in-touch-section .common-form .form-control { height: 36px; border-radius: 6px; -webkit-border-radius: 6px; -moz-border-radius: 6px; -ms-border-radius: 6px; -o-border-radius: 6px; }
+.get-in-touch-section .common-form textarea.form-control { height: 80px; }
+.get-in-touch-section .common-form .form-submit .btn { padding-top: 12px; padding-bottom: 12px; }
+/* home page */
+}
+
+@media (min-width: 1200px) and (max-width: 1299px){
+.main-title { font-size: 50px; letter-spacing: -2px; margin-bottom: 20px; }
+/* .section-title { font-size: 35px; margin-bottom: 30px; } */
+.block-title { font-size: 24px; }
+.common-scroll-to-section .common-scroll-to-block .scroll-link { font-size: 16px; }
+.common-scroll-to-section .common-scroll-to-block .scroll-link .scroll-anim { width: 18px; height: 35px; }
+.common-scroll-to-section .common-scroll-to-block .scroll-link .scroll-anim:before { width: 15px; height: 15px; }
+@keyframes scroll-dot-anim { from { top: 2px; } to { top: 16px; } }
+@-webkit-keyframes scroll-dot-anim { from { top: 2px; } to { top: 16px; } }
+.common-main-section { padding-top: 225px; }
+.paragraph-large { font-size: 18px; }
+#fp-nav.fp-right,
+#fp-nav.right { right: 35px !important; }
+
+/* .common-main-section { padding-top: 185px; padding-bottom: 75px; } */
+.common-main-section { padding-top: 150px; padding-bottom: 75px; }
+.section-title { font-size: 28px; letter-spacing: -1.5px; margin-bottom: 30px; }
+.block-title { font-size: 22px; }
+
+/* header */
+.navbar .navbar-brand { width: 150px; }
+.navbar .navbar-nav .nav-item { margin: 0 15px; }
+.navbar .navbar-nav .nav-item .nav-link { font-size: 16px; }
+.header .h-get-touch-button { margin-left: 35px; }
+
+.navbar .navbar-brand { width: 125px; }
+.header .h-top ul li { font-size: 15px; }
+.header .h-top ul li svg,
+.header .h-top ul li img { width: 15px; height: 15px; margin-right: 5px; }
+.header .h-top ul li.social-icons svg,
+.header .h-top ul li.social-icons img { width: 15px; height: 15px; }
+.header .h-top ul li.social-icons > * { margin: 0 10px; }
+.header .h-bottom .h-content { padding: 10px 0; }
+/* header */
+
+/* home page */
+/* .banner-block .banner-main-content { max-width: 750px; } */
+.banner-section .banner-main-content { padding-right: 75px; }
+.banner-section .banner-main-content .main-title { font-size: 45px; }
+.banner-block .banner-description { padding-bottom: 100px; }
+.who-we-are-section .who-we-are-description > .section-title { margin-bottom: 15px; }
+.who-we-are-block .section-title { font-size: 20px; margin-bottom: 10px; }
+/* .who-we-are-block .who-we-are-image { margin-left: auto; margin-right: auto; max-width: 285px; width: 100%; } */
+.who-we-are-block .who-we-are-image { margin-left: auto; margin-right: auto; max-width: 195px; width: 100%; }
+.our-services-section .section-title { margin-bottom: 10px; }
+.our-services-block .service-detail .detail { line-height: 135%; }
+.our-services-block .service-detail .detail ul li { margin-bottom: 10px; }
+/* .our-products-section .section-title { margin-bottom: 30px; } */
+.our-products-section .section-title { margin-bottom: 15px; }
+/* .our-products-block .product-image { max-width: 150px; width: 100%; margin-left: auto; margin-right: auto; margin-bottom: 25px; } */
+.our-products-block .product-image { max-width: 100px; width: 100%; margin-left: auto; margin-right: auto; margin-bottom: 15px; }
+.our-products-section .common-learn-more { margin-top: 5px; }
+.our-products-carousel .slick-slide.slick-current .our-products-block .product-detail { font-size: 18px; }
+.our-products-block .product-detail .detail { font-size: 16px; }
+.our-products-block .product-detail .detail * { margin-bottom: 5px; }
+.get-in-touch-section .get-in-touch-content > .row { margin: 0 -35px; }
+.get-in-touch-section .get-in-touch-content > .row > * { padding: 0 35px; }
+.get-in-touch-section .get-address-block { padding: 12px; margin-bottom: 10px; border-radius: 10px; -webkit-border-radius: 10px; -moz-border-radius: 10px; -ms-border-radius: 10px; -o-border-radius: 10px; }
+
+
+
+.our-services-block .service-icon { height: 45px; margin-bottom: 10px; }
+.our-services-block .service-icon * { height: 45px; }
+.our-services-block .block-title { letter-spacing: -1.5px; font-size: 18px; margin-bottom: 10px; }
+.get-in-touch-section .get-in-touch-title { margin-bottom: 15px; }
+
+
+.who-we-are-block .who-we-are-detail .detail { line-height: 150%; }
+.who-we-are-block .who-we-are-detail .detail p { margin-bottom: 10px; }
+
+.get-in-touch-section .get-in-touch-title .section-title { margin-bottom: 10px; }
+.get-in-touch-section .common-form .form-select,
+.get-in-touch-section .common-form .form-control { height: 30px; font-size: 14px; padding-top: 4px; padding-bottom: 4px; border-radius: 6px; -webkit-border-radius: 6px; -moz-border-radius: 6px; -ms-border-radius: 6px; -o-border-radius: 6px; }
+.get-in-touch-section .common-form textarea.form-control { height: 55px; padding-top: 12px; padding-bottom: 12px; }
+.get-in-touch-section .common-form .form-submit { margin-top: 15px; }
+.get-in-touch-section .common-form .form-submit .btn { padding-top: 12px; padding-bottom: 12px; }
+.get-in-touch-section .get-address-block .address-detail { font-size: 15px; }
+/* home page */
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+.main-title { font-size: 45px; letter-spacing: -2px; margin-bottom: 20px; }
+/* .section-title { font-size: 35px; margin-bottom: 30px; } */
+.block-title { font-size: 24px; }
+.common-scroll-to-section .common-scroll-to-block .scroll-link { font-size: 16px; }
+.common-scroll-to-section .common-scroll-to-block .scroll-link .scroll-anim { width: 18px; height: 35px; }
+.common-scroll-to-section .common-scroll-to-block .scroll-link .scroll-anim:before { width: 15px; height: 15px; }
+@keyframes scroll-dot-anim { from { top: 2px; } to { top: 16px; } }
+@-webkit-keyframes scroll-dot-anim { from { top: 2px; } to { top: 16px; } }
+.common-main-section { padding-top: 175px; }
+.paragraph-large { font-size: 18px; }
+#fp-nav.right { right: 15px !important; }
+#fp-nav.fp-right { right: 15px !important; }
+.common-back-link a { font-size: 16px; }
+.common-breadcrumbs-block .breadcrumb .breadcrumb-item { font-size: 16px; }
+
+/* .common-main-section { padding-top: 175px; padding-bottom: 75px; } */
+.common-main-section { padding-top: 160px; padding-bottom: 75px; }
+.section-title { font-size: 28px; letter-spacing: -1.5px; margin-bottom: 30px; }
+.block-title { font-size: 22px; }
+
+/* header */
+.navbar .navbar-brand { width: 135px; }
+.navbar .navbar-nav .nav-item { margin: 0 15px; }
+.navbar .navbar-nav .nav-item .nav-link { font-size: 16px; }
+.header .h-get-touch-button { margin-left: 35px; }
+.header .h-top ul { margin: 0 -7px; }
+.header .h-top ul li { font-size: 15px; margin: 0 7px 5px; }
+.header .h-top ul li.social-icons > * { margin: 0 10px; }
+.header .h-bottom .h-content { padding-top: 10px; padding-bottom: 10px; }
+/* header */
+
+/* home page */
+.banner-section .banner-main-content { padding-right: 125px; }
+.banner-section .banner-main-content .main-title { font-size: 35px; }
+.banner-block .banner-description { padding-bottom: 100px; }
+/* .banner-block .banner-description .banner-main-content { max-width: 750px; } */
+.banner-block .banner-button .btn { max-width: 275px; }
+/* .who-we-are-block .section-title { font-size: 24px; } */
+.who-we-are-block .section-title { font-size: 20px; margin-bottom: 10px; }
+/* .who-we-are-block .who-we-are-image { max-width: 275px; width: 100%; margin-left: auto; margin-right: auto; } */
+.who-we-are-block .who-we-are-image { max-width: 200px; width: 100%; margin-left: auto; margin-right: auto; }
+.who-we-are-block .who-we-are-detail .detail { line-height: 135%; }
+.who-we-are-block .who-we-are-detail .detail p { margin-bottom: 10px; }
+.our-services-block .service-detail .detail { line-height: 135%; }
+.our-services-block .service-detail .detail ul li { margin-bottom: 10px; }
+.our-services-block .service-icon { height: 55px; margin-bottom: 15px; }
+.our-services-block .service-icon * { height: 55px; }
+.our-products-section .section-title { margin-bottom: 10px; }
+/* .our-products-block .product-image { max-width: 150px; margin-left: auto; margin-right: auto; margin-bottom: 25px; } */
+.our-products-block .product-image { max-width: 115px; margin-left: auto; margin-right: auto; margin-bottom: 25px; }
+.our-products-block .product-detail { font-size: 16px; }
+.our-products-section .common-learn-more { margin-top: 5px; }
+.our-products-block .product-detail .detail { font-size: 14px; }
+.get-in-touch-section .get-in-touch-content > .row { margin: 0 -20px; }
+.get-in-touch-section .get-in-touch-content > .row > * { padding: 0 20px; }
+.get-in-touch-section .get-address-block { padding: 15px; margin-bottom: 10px; border-radius: 10px; -webkit-border-radius: 10px; -moz-border-radius: 10px; -ms-border-radius: 10px; -o-border-radius: 10px; }
+
+
+.our-services-block .block-title { font-size: 20px; letter-spacing: -1.5px; margin-bottom: 15px; }
+.get-in-touch-section .get-in-touch-title { margin-bottom: 30px; }
+
+.get-in-touch-section .get-in-touch-title .section-title { margin-bottom: 10px; }
+.get-in-touch-section .common-form .form-select,
+.get-in-touch-section .common-form .form-control { height: 30px; font-size: 14px; padding-top: 4px; padding-bottom: 4px; border-radius: 6px; -webkit-border-radius: 6px; -moz-border-radius: 6px; -ms-border-radius: 6px; -o-border-radius: 6px; }
+.get-in-touch-section .common-form textarea.form-control { height: 55px; padding-top: 12px; padding-bottom: 12px; }
+.get-in-touch-section .common-form .form-submit { margin-top: 15px; }
+.get-in-touch-section .common-form .form-submit .btn { padding-top: 12px; padding-bottom: 12px; }
+.get-in-touch-section .get-address-block .address-detail { font-size: 15px; }
+/* home page */
+}
+
+@media (min-width: 992px) {
+/* fullpage */
+#fullpage .fp-scrollable { /* overflow: auto; */ overflow: hidden; }
+/* fullpage */
+}
+
+@media (max-width: 991px) {
+.common-scroll-to-block { display: none; }
+#fp-nav.right { right: 15px !important; display: none; }
+#fp-nav.fp-right { right: 15px !important; display: none; }
+    
+/* navigation */
+html.nav-menu-open .header { background: #ffffff; }
+.navbar .navbar-brand { width: 135px; }
+.navbar-nav .nav-item { margin: 0 !important; padding: 0; border-bottom: 1px solid #000000; }
+.navbar .navbar-collapse { display: block; position: fixed; left: auto; right: -100%; bottom: 0; height: calc(100% - 157px); z-index: 999; width: 100%; overflow: auto; background: #ffffff; padding: 35px 15px; transition: 0.4s; -webkit-transition: 0.4s; -moz-transition: 0.4s; -ms-transition: 0.4s; -o-transition: 0.4s; }
+.navbar .navbar-collapse.show { right: 0; }
+.navbar .navbar-nav .nav-item .nav-link { display: flex; align-items: center; padding: 15px 0; color: #000000 !important; margin: 0; }
+/* .header .h-enquire-button { margin: 15px 15px 0; } */
+.header.h-white-layout .navbar .navbar-collapse { height: calc(100% - 114px); }
+/* navigation */
+
+/* header */
+.header .h-get-touch-button { margin: 15px 0 0; }
+.header .h-top ul { margin: 0 -5px; }
+.header .h-top ul li { font-size: 13px; margin: 0 5px 5px; }
+.header .h-top ul li.social-icons > * { margin: 0 10px; }
+.header .h-top ul li svg,
+.header .h-top ul li img { width: 15px; height: 15px; margin-right: 5px; }
+/* header */
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+.common-main-section { padding-top: 175px; padding-bottom: 30px; }
+.main-title { font-size: 42px; letter-spacing: -1.5px; margin-bottom: 20px; }
+.section-title { font-size: 28px; letter-spacing: -2.5px; margin-bottom: 20px; }
+.block-title { font-size: 24px; }
+.common-scroll-to-section .common-scroll-to-block .scroll-link { font-size: 16px; }
+.paragraph-large { font-size: 18px; }
+.btn-large { padding: 12px 25px; }
+.common-scroll-to-section .common-scroll-to-block .scroll-link .scroll-anim { width: 18px; height: 35px; }
+.common-scroll-to-section .common-scroll-to-block .scroll-link .scroll-anim:before { width: 15px; height: 15px; }
+@keyframes scroll-dot-anim { from { top: 2px; } to { top: 16px; } }
+@-webkit-keyframes scroll-dot-anim { from { top: 2px; } to { top: 16px; } }
+.slick-arrow { width: 42px; height: 42px; font-size: 22px; }
+#fp-nav.fp-right,
+#fp-nav.right { right: 15px !important; }
+.common-back-link a { font-size: 16px; }
+.common-breadcrumbs-block .breadcrumb .breadcrumb-item { font-size: 16px; }
+
+/* home page */
+/* .banner-section .banner-main-image { height: 550px; } */
+.banner-block .main-title { font-size: 35px; margin-bottom: 15px; }
+.banner-block .banner-description { padding-bottom: 85px; }
+.banner-block .banner-button .btn { max-width: 225px; }
+.banner-carousel .slick-dots { position: absolute; left: 50%; right: auto; bottom: 30px; padding: 0 15px; flex-direction: row; transform: translate(-50%, 0); -webkit-transform: translate(-50%, 0); -moz-transform: translate(-50%, 0); -ms-transform: translate(-50%, 0); -o-transform: translate(-50%, 0); }
+.banner-carousel .slick-dots li { width: 28px; height: 28px; }
+.who-we-are-block .who-we-are-image { margin-top: 25px; }
+.who-we-are-block .section-title { font-size: 24px; }
+.our-services-block .service-detail .detail ul li { margin-bottom: 15px; }
+.our-services-block .service-icon { height: 75px; margin-bottom: 15px; }
+.our-services-block .service-icon * { height: 75px; }
+.our-services-block .service-icon * { height: inherit; }
+.our-products-section .section-title { margin-bottom: 30px; }
+.our-products-block .product-image { max-width: 150px; width: 100%; margin-left: auto; margin-right: auto; margin-bottom: 15px; }
+.our-products-block .product-detail { font-size: 18px; }
+.our-products-block .product-detail .detail { font-size: 16px; }
+.our-products-full-detail-block .our-products-image { margin-bottom: 30px; }
+.get-in-touch-section .get-in-touch-content > .row { margin: 0 -20px; }
+.get-in-touch-section .get-in-touch-content > .row > * { padding: 0 20px; }
+.get-in-touch-section .get-address-block { padding: 20px; border-radius: 15px; -webkit-border-radius: 15px; -moz-border-radius: 15px; -ms-border-radius: 15px; -o-border-radius: 15px; }
+.get-in-touch-section .get-address-block .address-icon { font-size: 25px; width: 30px; margin-right: 10px; }
+.get-in-touch-section .get-address-block .address-detail { font-size: 16px; }
+.get-in-touch-section .get-in-touch-title { margin-bottom: 35px; }
+
+.our-services-block .block-title { letter-spacing: -1.5px; }
+/* home page */
+}
+
+@media (min-width: 768px) {
+}
+
+@media (max-width: 767px) {
+.common-main-section { padding-top: 175px; padding-bottom: 30px; }
+.main-title { font-size: 35px; letter-spacing: 0; margin-bottom: 20px; }
+.section-title { font-size: 28px; letter-spacing: -2.5px; margin-bottom: 20px; }
+.block-title { font-size: 22px; }
+.common-scroll-to-section .common-scroll-to-block .scroll-link { font-size: 16px; }
+.paragraph-large { font-size: 18px; }
+.btn-large { padding: 12px 25px; }
+.common-scroll-to-section .common-scroll-to-block .scroll-link .scroll-anim { width: 18px; height: 35px; }
+.common-scroll-to-section .common-scroll-to-block .scroll-link .scroll-anim:before { width: 14px; height: 14px; }
+@keyframes scroll-dot-anim { 0% { top: 2px; } 100% { top: 16px; } }
+@-webkit-keyframes scroll-dot-anim { 0% { top: 2px; } 100% { top: 16px; } }
+/* .common-main-section { padding-top: 35px; } */
+.slick-arrow { width: 42px; height: 42px; font-size: 22px; }
+.common-back-link a { font-size: 16px; }
+.common-breadcrumbs-block .breadcrumb .breadcrumb-item { font-size: 16px; }
+
+/* header */
+.header .h-top ul { justify-content: center; }
+.header .h-top ul li { font-size: 0; }
+.header .h-top ul li svg,
+.header .h-top ul li img { width: 20px; height: 20px; }
+/* header */
+
+/* home page */
+/* .banner-section .banner-main-image { height: 550px; } */
+.banner-block .main-title { font-size: 28px; margin-bottom: 15px; }
+.banner-block .banner-description { padding-bottom: 85px; }
+.banner-block .banner-button .btn { max-width: 225px; }
+.banner-carousel .slick-dots { position: absolute; left: 50%; right: auto; bottom: 30px; padding: 0 15px; flex-direction: row; transform: translate(-50%, 0); -webkit-transform: translate(-50%, 0); -moz-transform: translate(-50%, 0); -ms-transform: translate(-50%, 0); -o-transform: translate(-50%, 0); }
+.banner-carousel .slick-dots li { width: 28px; height: 28px; }
+.who-we-are-block .who-we-are-image { margin-top: 25px; }
+.who-we-are-block .section-title { font-size: 22px; }
+.our-services-block .service-detail .detail ul li { margin-bottom: 20px; }
+.our-services-block .service-icon { height: 75px; }
+.our-services-block .service-icon * { height: 75px; }
+.our-services-block .service-icon * { height: inherit; }
+.our-products-carousel .slick-slide .our-products-block .product-image * { transform: scale(1); -webkit-transform: scale(1); -moz-transform: scale(1); -ms-transform: scale(1); -o-transform: scale(1); }
+.our-products-section .section-title { margin-bottom: 30px; }
+.our-products-full-detail-block .our-products-image { margin-bottom: 30px; }
+.our-products-block .product-image { margin-bottom: 25px; }
+.our-products-carousel .slick-slide.slick-current .our-products-block .product-detail { font-size: 18px; }
+.our-products-block .product-detail .detail { font-size: 16px; }
+.get-in-touch-section .get-in-touch-content > .row { margin: 0 -15px; }
+.get-in-touch-section .get-in-touch-content > .row > * { padding: 0 15px; }
+.get-in-touch-section .get-in-touch-content .get-in-touch-form { margin-bottom: 35px; }
+.get-in-touch-section .get-address-block { padding: 15px; border-radius: 15px; -webkit-border-radius: 15px; -moz-border-radius: 15px; -ms-border-radius: 15px; -o-border-radius: 15px; }
+.get-in-touch-section .get-address-block .address-icon { font-size: 25px; width: 30px; margin-right: 10px; }
+.get-in-touch-section .get-address-block .address-detail { font-size: 16px; }
+.get-in-touch-section .get-in-touch-title { margin-bottom: 35px; }
+
+.our-services-block .block-title { letter-spacing: -1.5px; }
+/* home page */
+}
+
+/*---------- Small Mobile , IPhone Start ----------*/
+
+/*=== Screen Size = 240, 320, 360, 480, 568 ===*/
+@media (min-width: 576px) and (max-width: 767px){
+}
+
+@media (min-width: 240px) and (max-width: 575px){
+}
+/*---------- Large Desktop , Large Screen End ----------*/

@@ -1,0 +1,120 @@
+@font-face {
+  font-family: 'FontAwesome6BrandsRegular400';
+  src: url('FontAwesome6BrandsRegular400.eot');
+  src: url('FontAwesome6BrandsRegular400.eot') format('embedded-opentype'),
+       url('FontAwesome6BrandsRegular400.woff2') format('woff2'),
+       url('FontAwesome6BrandsRegular400.woff') format('woff'),
+       url('FontAwesome6BrandsRegular400.ttf') format('truetype'),
+       url('FontAwesome6BrandsRegular400.svg#FontAwesome6BrandsRegular400') format('svg');
+}
+
+@font-face {
+  font-family: 'FontAwesome6FreeRegular400';
+  src: url('FontAwesome6FreeRegular400.eot');
+  src: url('FontAwesome6FreeRegular400.eot') format('embedded-opentype'),
+       url('FontAwesome6FreeRegular400.woff2') format('woff2'),
+       url('FontAwesome6FreeRegular400.woff') format('woff'),
+       url('FontAwesome6FreeRegular400.ttf') format('truetype'),
+       url('FontAwesome6FreeRegular400.svg#FontAwesome6FreeRegular400') format('svg');
+}
+
+@font-face {
+  font-family: 'FontAwesome6FreeSolid900';
+  src: url('FontAwesome6FreeSolid900.eot');
+  src: url('FontAwesome6FreeSolid900.eot') format('embedded-opentype'),
+       url('FontAwesome6FreeSolid900.woff2') format('woff2'),
+       url('FontAwesome6FreeSolid900.woff') format('woff'),
+       url('FontAwesome6FreeSolid900.ttf') format('truetype'),
+       url('FontAwesome6FreeSolid900.svg#FontAwesome6FreeSolid900') format('svg');
+}
+
+@font-face {
+  font-family: 'Heebo';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('heebo-v26-latin-regular.eot');
+  src: url('heebo-v26-latin-regular.eot?#iefix') format('embedded-opentype'),
+       url('heebo-v26-latin-regular.woff2') format('woff2'),
+       url('heebo-v26-latin-regular.woff') format('woff'),
+       url('heebo-v26-latin-regular.ttf') format('truetype'),
+       url('heebo-v26-latin-regular.svg#Heebo') format('svg');
+}
+
+@font-face {
+  font-family: 'Prompt';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('prompt-v10-latin-regular.eot');
+  src: url('prompt-v10-latin-regular.eot?#iefix') format('embedded-opentype'),
+       url('prompt-v10-latin-regular.woff2') format('woff2'),
+       url('prompt-v10-latin-regular.woff') format('woff'),
+       url('prompt-v10-latin-regular.ttf') format('truetype'),
+       url('prompt-v10-latin-regular.svg#Prompt') format('svg');
+}
+
+@font-face {
+  font-family: 'Prompt';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url('prompt-v10-latin-500.eot');
+  src: url('prompt-v10-latin-500.eot?#iefix') format('embedded-opentype'),
+       url('prompt-v10-latin-500.woff2') format('woff2'),
+       url('prompt-v10-latin-500.woff') format('woff'),
+       url('prompt-v10-latin-500.ttf') format('truetype'),
+       url('prompt-v10-latin-500.svg#Prompt') format('svg');
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('inter-v13-latin-regular.eot');
+  src: url('inter-v13-latin-regular.eot?#iefix') format('embedded-opentype'),
+       url('inter-v13-latin-regular.woff2') format('woff2'),
+       url('inter-v13-latin-regular.woff') format('woff'),
+       url('inter-v13-latin-regular.ttf') format('truetype'),
+       url('inter-v13-latin-regular.svg#Inter') format('svg');
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url('inter-v13-latin-500.eot');
+  src: url('inter-v13-latin-500.eot?#iefix') format('embedded-opentype'),
+       url('inter-v13-latin-500.woff2') format('woff2'),
+       url('inter-v13-latin-500.woff') format('woff'),
+       url('inter-v13-latin-500.ttf') format('truetype'),
+       url('inter-v13-latin-500.svg#Inter') format('svg');
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url('inter-v13-latin-600.eot');
+  src: url('inter-v13-latin-600.eot?#iefix') format('embedded-opentype'),
+       url('inter-v13-latin-600.woff2') format('woff2'),
+       url('inter-v13-latin-600.woff') format('woff'),
+       url('inter-v13-latin-600.ttf') format('truetype'),
+       url('inter-v13-latin-600.svg#Inter') format('svg');
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('inter-v13-latin-700.eot');
+  src: url('inter-v13-latin-700.eot?#iefix') format('embedded-opentype'),
+       url('inter-v13-latin-700.woff2') format('woff2'),
+       url('inter-v13-latin-700.woff') format('woff'),
+       url('inter-v13-latin-700.ttf') format('truetype'),
+       url('inter-v13-latin-700.svg#Inter') format('svg');
+}
